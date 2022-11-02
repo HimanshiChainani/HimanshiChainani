@@ -38,6 +38,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshichainani&show_icons=true&locale=en&layout=compact" alt="himanshichainani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshichainani&show_icons=true&locale=en" alt="himanshichainani" /></p>
+<p><img align="center" src="https://holopin.me/himanshichainani" alt="himanshichainani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshichainani&" alt="himanshichainani" /></p>
 
